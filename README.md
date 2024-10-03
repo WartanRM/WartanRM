@@ -2,11 +2,15 @@
 
 🌟 Technical Skills:
 
-⚡Languages: C/C++, C#, JavaScript, HTML, CSS, Java, Python
-⚡Frontend: React, Redux, ASP.NET, Vite
-⚡Backend: .NET Core, REST APIs, Microservices
-⚡Cloud: AWS (Certified Cloud Practitioner)
-⚡Databases: SQL, GraphQL
+⚡Languages: C/C++, C#, JavaScript, HTML, CSS, Java, Python.
+
+⚡Frontend: React, Redux, ASP.NET, Vite.
+
+⚡Backend: .NET Core, REST APIs, Microservices.
+
+⚡Cloud: AWS (Certified Cloud Practitioner).
+
+⚡Databases: SQL, GraphQL.
 
 💡 Constantly learning and staying updated with industry trends, including cloud computing, modern frontend frameworks, and clean code practices.
 
